@@ -20,6 +20,8 @@ function App() {
       <p>Start typing first name</p>
       <FilterInput users={initialUsers} updateUsers={updateUsersToRender} />
       <Table users={usersToRender} />
+      
+   
     
         
         
